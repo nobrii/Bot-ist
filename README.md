@@ -1,6 +1,7 @@
 # Bot-ist
 ## Chat Bot feito em python com API do telegram.
 
+#Código
 ```C
 from telegram import Update   #Quando alguém manda uma mensagem para o bot, o Telegram envia um Update para o seu programa.
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTypes
