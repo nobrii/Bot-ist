@@ -8,7 +8,7 @@ from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTyp
 import random
 import unicodedata
 
-TOKEN = "8756411706:AAFfdeayrSiK9FPsT5_HJ65ZZms4WIwIAz0"
+TOKEN = ""
 
 def remover_acentos(texto):
     return ''.join(
