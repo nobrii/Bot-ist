@@ -1,4 +1,4 @@
-# Bot-ist
+# Bot
 ## Chat Bot feito em python com API do telegram.
 
 #Código
